@@ -1,0 +1,6 @@
+finding_id,asset_id,cve,cvss,kev,epss
+EXP-001,A-001,CVE-2026-1001,9.8,true,0.91
+EXP-002,A-002,CVE-2026-1002,7.5,false,0.28
+EXP-003,A-003,CVE-2026-1003,8.8,false,0.63
+EXP-004,A-004,CVE-2026-1004,9.1,true,0.72
+EXP-005,A-005,CVE-2026-1005,6.5,false,0.17
