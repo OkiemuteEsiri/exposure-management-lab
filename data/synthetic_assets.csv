@@ -1,0 +1,6 @@
+asset_id,hostname,asset_group,owner,criticality,internet_facing,edr_present,segmented
+A-001,edge-web-01,Internet Services,Platform Security,5,true,true,true
+A-002,finance-app-02,Business Applications,Business Apps,4,false,true,true
+A-003,legacy-db-01,Data Services,Infrastructure,5,false,false,false
+A-004,remote-gateway-01,Remote Access,Infrastructure,5,true,true,false
+A-005,dev-api-03,Development,Engineering,3,true,false,true
